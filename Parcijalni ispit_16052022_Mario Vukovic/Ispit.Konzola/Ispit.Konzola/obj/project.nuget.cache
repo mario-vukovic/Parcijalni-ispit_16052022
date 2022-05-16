@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4V7NEA6fVpOwwf/f0C5ugSLRiilwi60SENdBY/FSIIekLw+XsUaw5baNMHtFzzZ/7QqDaUEVckOeaqhJj03JbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WindowsUser\\Desktop\\VS\\Ispit.Konzola\\Ispit.Konzola\\Ispit.Konzola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WindowsUser\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
